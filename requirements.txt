@@ -1,5 +1,5 @@
 # Pin dependencies that might cause breakage
-Werkzeug==2.1.2
+Werkzeug==2.3
 SQLAlchemy==1.4.46
 pymongo
 
